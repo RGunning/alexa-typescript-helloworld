@@ -16,7 +16,7 @@
         "tidy": "tsfmt -r"
     },
     "author": "Richard Gunning <rjgunning@gmail.com> (http://rjgunning.com)",
-    "license": "ISC",
+    "license": "Apache License 2.0",
     "dependencies": {
         "ask-sdk": "^2.0.5",
         "i18next": "^11.3.2",
