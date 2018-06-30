@@ -1,0 +1,9 @@
+{
+  "HELP": "Help Intent",
+  "ERROR": "Error Intent",
+  "EXIT": "Exit Intent",
+  "HELLO_WORLD": "Hello World Intent",
+  "LAUNCH": "Launch Intent",
+  "REPEAT": "Repeat Intent",
+  "SESSION_END": "Session End Intent"
+}

@@ -1,0 +1,14 @@
+{
+  "SKILL_NAME": "Alexa Typescript hello World",
+
+  "WELCOME_MESSAGE":
+  "Howdy, Welcome to %s.",
+  "WELCOME_REPROMPT": "For instructions on what you can say, please say help me.",
+
+  "HELP_MESSAGE":
+  "I have intents such as: %s",
+  "HELP_REPROMPT":
+  "you can trigger intents like %s ...Now, what can I help you with?",
+  "STOP_MESSAGE": "Goodbye!"
+
+}
